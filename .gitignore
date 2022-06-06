@@ -1,3 +1,4 @@
-youtubevenv/
+ytvenv/
 __pycache__/
 credentials.py
+*.json
